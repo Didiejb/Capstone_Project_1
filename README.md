@@ -1,23 +1,23 @@
 # Capstone Project 1
 
-# Project Title: Sales Performance Analysis for a Retail Store
+# Project Title
+Sales Performance Analysis for a Retail Store
 
 ## Project Overview
 This Data Analysis Project aims to generate insight into the sales performance of a Retail Store. By exploring the sales data and analysing the various parameters, I seek to uncover key insights such as top-selling products, regional performance and monthly sales trend. This would help make data-driven decisions and enable me tell a unique story with the insights gotten from the data.
 
 ## Table of Content
-* *Project Title*
-* *Project Overview*
-* *Data Sources*
-* *Tools Used*
-* *Data Cleaning and Preparation*
-* *Exploratory Data Analysis*
-* *Data Analysis*
-* *Data Visualization*
-* *Recommendations*
+* [*Project Title*](#project-title)
+* [*Project Overview*](#project-overview)
+* [*Data Sources*](#data-sources)
+* [*Tools Used*](#tools-used)
+* [*Data Cleaning and Preparation*](#data-cleaning-and-preparation)
+* [*Data Analysis*](#data-analysis)
+* [*Data Visualization*](#data-visualization)
+* [*Recommendations*](#recommendations)
   
 ### Data Sources
-The primary source of Data used in this Project is Sales Data file and this can be downloaded here[Sales Data.csv](https://github.com/user-attachments/files/17631160/Sales.Data.csv)
+The primary source of Data used in this Project is Sales Data file and this can be downloaded here.[Sales Data.csv](https://github.com/user-attachments/files/17631160/Sales.Data.csv)
 
 
 ### Tools Used
@@ -45,7 +45,9 @@ The primary source of Data used in this Project is Sales Data file and this can 
    - **Total Sales (Revenue)**: Calculated as `Quantity * UnitPrice`.
    - **Order Month**: Extracted from `OrderDate` using the formula `=TEXT(OrderDate, "mmmm")`.
 
-### Data Analysis in Excel
+### Data Analysis
+
+#### Data Analysis in Excel
 
 **Pivot Tables:**
 
@@ -96,7 +98,7 @@ The primary source of Data used in this Project is Sales Data file and this can 
      ![Screenshot 2024-11-04 131559](https://github.com/user-attachments/assets/2ffc4609-be47-460f-8713-1ea16984ffcb)
 
 
-### 3. SQL Analysis
+#### SQL Analysis
 
 **Queries Executed:**
 
@@ -192,7 +194,9 @@ The primary source of Data used in this Project is Sales Data file and this can 
    ![Screenshot 2024-11-05 105946](https://github.com/user-attachments/assets/3c88ff1a-dbbe-4462-ba13-f8939958e83b)
 
 
-### 4. Power BI Dashboard
+### Data Visualization
+
+#### Power BI Dasboard
 
 **Steps Taken:**
 
@@ -221,5 +225,5 @@ The primary source of Data used in this Project is Sales Data file and this can 
 5. **Publish Dashboard:**
    - Published the Power BI dashboard to the Power BI service for sharing and collaboration.
 
----
+### Recommendations
 
