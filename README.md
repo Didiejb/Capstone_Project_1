@@ -214,10 +214,13 @@ The primary source of Data used in this Project is Sales Data file and this can 
       ![Screenshot 2024-11-05 154306](https://github.com/user-attachments/assets/565f991b-c1f9-4155-b5e0-477b7b1c44eb)
 
 
+
       ![Screenshot 2024-11-05 154321](https://github.com/user-attachments/assets/77d041ea-7281-46f6-a118-1b9a2d07b61b)
 
 
+
       ![Screenshot 2024-11-05 154400](https://github.com/user-attachments/assets/5593fb39-0b75-48c6-a66a-c47bc1f2a5a3)
+
 
 
 3. **Add Slicers:**
@@ -227,8 +230,6 @@ The primary source of Data used in this Project is Sales Data file and this can 
    - Arranged the visuals in a logical and visually appealing layout.
    - Used appropriate colors and themes to enhance readability.
 
-5. **Publish Dashboard:**
-   - Published the Power BI dashboard to the Power BI service for sharing and collaboration.
 
 ### Recommendations
 **1. Optimize Inventory Management:**
@@ -239,15 +240,11 @@ The primary source of Data used in this Project is Sales Data file and this can 
    - **Insight:** Certain regions like the `North` and `South` show higher sales volumes.
    - **Recommendation:** Allocate more marketing resources to these regions. Develop region-specific promotions and advertising campaigns to further boost sales.
 
-**3. Enhance Customer Engagement:**
-   - **Insight:** Top 5 customers contribute significantly to the total sales.
-   - **Recommendation:** Implement loyalty programs and personalized marketing efforts to retain these high-value customers. Consider exclusive offers or early access to new products for loyal customers.
-
-**4. Focus on Seasonal Trends:**
+**3. Focus on Seasonal Trends:**
    - **Insight:** Monthly sales trends indicate seasonal peaks.
    - **Recommendation:** Plan marketing campaigns and stock levels around these peak periods. Offer seasonal promotions and discounts to maximize sales during high-demand months.
 
-**5. Product Diversification:**
+**4. Product Diversification:**
    - **Insight:** Products like `Hat` and `Socks` have lower sales compared to others.
    - **Recommendation:** Evaluate the demand and profitability of these products. Consider introducing new product variations or discontinuing underperforming items to optimize product mix.
 
